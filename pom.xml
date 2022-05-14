@@ -19,9 +19,7 @@
         <java.version>17</java.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
-        <spring-boot.version>2.6.0</spring-boot.version>
-        <!--<spring-documentation.version>1.6.7</spring-documentation.version>
-        <querydsl.version>5.0.0</querydsl.version>-->
+        <spring-boot.version>2.6.7</spring-boot.version>
     </properties>
 
     <dependencyManagement>
