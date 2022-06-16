@@ -11,6 +11,7 @@
         <module>chat-service</module>
         <module>spring-guide</module>
         <module>rsocket</module>
+        <module>websockets-second</module>
     </modules>
     <name>websocket-chat</name>
     <description>websocket-chat</description>
